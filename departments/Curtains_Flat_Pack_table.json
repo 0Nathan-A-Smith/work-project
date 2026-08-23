@@ -556,31 +556,31 @@
     },
     {
       "order": 85,
-      "range": "Churchgate Herringbone Nat Eyelet",
-      "status": "Continued",
-      "space": "0.5"
-    },
-    {
-      "order": 86,
-      "range": "Alderly Eyelet Natural",
-      "status": "Continued",
-      "space": "0.5"
-    },
-    {
-      "order": 87,
-      "range": "Alderley Natural Pencil Pleat",
-      "status": "Continued",
-      "space": "0.5"
-    },
-    {
-      "order": 88,
       "range": "Ridley Eyelet Natural",
       "status": "Continued",
       "space": "0.5"
     },
     {
-      "order": 89,
+      "order": 86,
       "range": "Luna Natural Pencil Pleat",
+      "status": "Continued",
+      "space": "0.33"
+    },
+    {
+      "order": 87,
+      "range": "Alderly Eyelet Natural",
+      "status": "Continued",
+      "space": "0.5"
+    },
+    {
+      "order": 88,
+      "range": "Churchgate Herringbone Nat Eyelet",
+      "status": "Continued",
+      "space": "0.5"
+    },
+    {
+      "order": 89,
+      "range": "Alderley Natural Pencil Pleat",
       "status": "Continued",
       "space": "0.33"
     },
