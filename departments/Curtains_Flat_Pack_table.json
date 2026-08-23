@@ -448,87 +448,87 @@
     },
     {
       "order": 67,
-      "range": "Solar Slate Eyelet",
+      "range": "Genoa Eyelet Charcoal",
       "status": "Continued",
       "space": "0.33"
     },
     {
       "order": 68,
-      "range": "Greyson Eyelet Charcoal",
+      "range": "Walker Tonal Stripe Eyelet Pebble",
       "status": "Continued",
-      "space": "0.5"
+      "space": "0.33"
     },
     {
       "order": 69,
-      "range": "Genoa Eyelet Charcoal",
-      "status": "Continued",
-      "space": "0.5"
+      "range": "Alvin Eyelet Natural",
+      "status": "New",
+      "space": "0.33"
     },
     {
       "order": 70,
-      "range": "Genoa Eyelet Black",
-      "status": "Continued",
-      "space": "0.5"
-    },
-    {
-      "order": 71,
-      "range": "Geo Checkerboard Eyelet Black",
-      "status": "Continued",
-      "space": "0.5"
-    },
-    {
-      "order": 72,
-      "range": "Lori Velvet Black Eyelet",
-      "status": "Continued",
-      "space": "0.5"
-    },
-    {
-      "order": 73,
-      "range": "Recycled Velour Black Eyelet",
-      "status": "Continued",
-      "space": "0.5"
-    },
-    {
-      "order": 74,
-      "range": "Alvin Eyelet Natural",
-      "status": "New",
-      "space": "0.5"
-    },
-    {
-      "order": 75,
-      "range": "Camden Natural Eyelet",
-      "status": "Continued",
-      "space": "0.5"
-    },
-    {
-      "order": 76,
-      "range": "Pinfold Check EY Grey",
-      "status": "New",
-      "space": "0.5"
-    },
-    {
-      "order": 77,
       "range": "Wynter Thermal Eyelet Taupe",
       "status": "New",
       "space": "0.5"
     },
     {
+      "order": 71,
+      "range": "Pinfold Check EY Grey",
+      "status": "New",
+      "space": "0.5"
+    },
+    {
+      "order": 72,
+      "range": "Elmore Eyelet Natural",
+      "status": "Continued",
+      "space": "0.5"
+    },
+    {
+      "order": 73,
+      "range": "Camden Natural Eyelet",
+      "status": "Continued",
+      "space": "0.5"
+    },
+    {
+      "order": 74,
+      "range": "Recycled Velour Black Eyelet",
+      "status": "Continued",
+      "space": "0.5"
+    },
+    {
+      "order": 75,
+      "range": "Lori Velvet Black Eyelet",
+      "status": "Continued",
+      "space": "0.5"
+    },
+    {
+      "order": 76,
+      "range": "Genoa Eyelet Black",
+      "status": "Continued",
+      "space": "0.5"
+    },
+    {
+      "order": 77,
+      "range": "Geo Checkerboard Eyelet Black",
+      "status": "Continued",
+      "space": "0.5"
+    },
+    {
       "order": 78,
-      "range": "Walker Tonal Stripe Eyelet Pebble",
+      "range": "Solar Slate Eyelet",
       "status": "Continued",
       "space": "0.5"
     },
     {
       "order": 79,
-      "range": "Elmore Eyelet Natural",
+      "range": "Greyson Eyelet Charcoal",
       "status": "Continued",
-      "space": "0.33"
+      "space": "0.5"
     },
     {
       "order": 80,
       "range": "Textured Chenille Eyelet Mushroom",
       "status": "Continued",
-      "space": "0.5"
+      "space": "0.33"
     },
     {
       "order": 81,
@@ -556,15 +556,15 @@
     },
     {
       "order": 85,
-      "range": "Ridley Eyelet Natural",
+      "range": "Luna Natural Pencil Pleat",
       "status": "Continued",
       "space": "0.5"
     },
     {
       "order": 86,
-      "range": "Luna Natural Pencil Pleat",
+      "range": "Ridley Eyelet Natural",
       "status": "Continued",
-      "space": "0.33"
+      "space": "0.5"
     },
     {
       "order": 87,
