@@ -364,93 +364,93 @@
     },
     {
       "order": 53,
-      "range": "Genoa Eyelet Silver",
+      "range": "Recycled Velour Grey Eyelet",
       "status": "Continued",
       "space": "0.5"
     },
     {
       "order": 54,
-      "range": "Blake Eyelet Soft Grey",
+      "range": "Genoa Eyelet Silver",
       "status": "Continued",
       "space": "0.5"
     },
     {
       "order": 55,
-      "range": "Calista Dove Grey Eyelet",
+      "range": "Blake Eyelet Soft Grey",
       "status": "Continued",
       "space": "0.5"
     },
     {
       "order": 56,
+      "range": "Calista Dove Grey Eyelet",
+      "status": "Continued",
+      "space": "0.5"
+    },
+    {
+      "order": 57,
       "range": "Churchgate Herringbone Soft Grey Eyelet",
       "status": "New",
       "space": "0.5"
     },
     {
-      "order": 57,
+      "order": 58,
       "range": "Luna Dove Grey Pencil Pleat",
       "status": "Continued",
       "space": "0.33"
     },
     {
-      "order": 58,
+      "order": 59,
       "range": "Solar Grey Pencil Pleat",
       "status": "Continued",
       "space": "0.33"
     },
     {
-      "order": 59,
+      "order": 60,
       "range": "Sherwood Silver Eyelet",
       "status": "Continued",
       "space": "0.5"
     },
     {
-      "order": 60,
+      "order": 61,
       "range": "Padstow EY Dove",
       "status": "New",
       "space": "0.5"
     },
     {
-      "order": 61,
+      "order": 62,
       "range": "Ridley Eyelet Grey",
       "status": "Continued",
       "space": "0.5"
     },
     {
-      "order": 62,
+      "order": 63,
       "range": "Wynter Grey Eyelet",
       "status": "Continued",
       "space": "0.5"
     },
     {
-      "order": 63,
+      "order": 64,
       "range": "Solar Mid Grey Eyelet",
       "status": "Continued",
       "space": "0.33"
     },
     {
-      "order": 64,
+      "order": 65,
       "range": "Luna Charcoal Pencil Pleat",
       "status": "Continued",
       "space": "0.33"
     },
     {
-      "order": 65,
+      "order": 66,
       "range": "Solar Slate Eyelet",
       "status": "Continued",
       "space": "0.33"
     },
     {
-      "order": 66,
+      "order": 67,
       "range": "Zodiac Charcoal Eyelet",
       "status": "Continued",
       "space": "0.33"
-    },
-    {
-      "order": 67,
-      "range": "Recycled Velour Grey Eyelet",
-      "status": "Continued",
-      "space": "0.5"
     },
     {
       "order": 68,
