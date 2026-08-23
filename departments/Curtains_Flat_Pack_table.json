@@ -274,45 +274,45 @@
     },
     {
       "order": 38,
-      "range": "Luna Blush Pencil Pleat",
-      "status": "Continued",
-      "space": "0.33"
-    },
-    {
-      "order": 39,
-      "range": "Luna Orange Umber Eyelet",
-      "status": "Continued",
-      "space": "0.33"
-    },
-    {
-      "order": 40,
       "range": "Zen Eyelet Red",
       "status": "Continued",
       "space": "0.5"
     },
     {
+      "order": 39,
+      "range": "Luna Blush Pencil Pleat",
+      "status": "Continued",
+      "space": "0.33"
+    },
+    {
+      "order": 40,
+      "range": "Luna Orange Umber Eyelet",
+      "status": "Continued",
+      "space": "0.33"
+    },
+    {
       "order": 41,
+      "range": "Annie Eyelet Champagne",
+      "status": "Continued",
+      "space": "0.33"
+    },
+    {
+      "order": 42,
+      "range": "Zodiac Eyelet Warm Sand",
+      "status": "Continued",
+      "space": "0.5"
+    },
+    {
+      "order": 43,
       "range": "Recycled Velour Eyelet Chestnut",
       "status": "Continued",
       "space": "0.5"
     },
     {
-      "order": 42,
+      "order": 44,
       "range": "Branwick EY Dark Natural",
       "status": "New",
       "space": "0.5"
-    },
-    {
-      "order": 43,
-      "range": "Annie Eyelet Champagne",
-      "status": "Continued",
-      "space": "0.5"
-    },
-    {
-      "order": 44,
-      "range": "Zodiac Eyelet Warm Sand",
-      "status": "Continued",
-      "space": "0.33"
     },
     {
       "order": 45,
