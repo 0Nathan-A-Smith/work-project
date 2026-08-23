@@ -574,33 +574,33 @@
     },
     {
       "order": 88,
-      "range": "Zodiac Eyelet Natural",
-      "status": "Continued",
-      "space": "0.33"
-    },
-    {
-      "order": 89,
-      "range": "Zen Eyelet Natural",
-      "status": "Continued",
-      "space": "0.5"
-    },
-    {
-      "order": 90,
       "range": "Ridley Eyelet Natural",
       "status": "Continued",
       "space": "0.5"
     },
     {
-      "order": 91,
-      "range": "Blake Pencil Pleat Natural",
+      "order": 89,
+      "range": "Luna Natural Pencil Pleat",
       "status": "Continued",
       "space": "0.33"
     },
     {
-      "order": 92,
-      "range": "Luna Natural Pencil Pleat",
+      "order": 90,
+      "range": "Zodiac Eyelet Natural",
       "status": "Continued",
-      "space": "0.33"
+      "space": "0.5"
+    },
+    {
+      "order": 91,
+      "range": "Zen Eyelet Natural",
+      "status": "Continued",
+      "space": "0.5"
+    },
+    {
+      "order": 92,
+      "range": "Blake Pencil Pleat Natural",
+      "status": "Continued",
+      "space": "0.5"
     },
     {
       "order": 93,
@@ -610,15 +610,15 @@
     },
     {
       "order": 94,
-      "range": "Wynter Thermal Eyelet Cream",
-      "status": "New",
+      "range": "Luna Pencil Pleat Cream",
+      "status": "Continued",
       "space": "0.5"
     },
     {
       "order": 95,
-      "range": "Luna Pencil Pleat Cream",
-      "status": "Continued",
-      "space": "0.33"
+      "range": "Wynter Thermal Eyelet Cream",
+      "status": "New",
+      "space": "0.5"
     },
     {
       "order": 96,
