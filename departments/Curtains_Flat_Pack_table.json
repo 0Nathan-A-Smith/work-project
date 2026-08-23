@@ -622,39 +622,39 @@
     },
     {
       "order": 96,
-      "range": "Alora Chenille Eyelet Natural",
-      "status": "Continued",
-      "space": "0.5"
-    },
-    {
-      "order": 97,
       "range": "Alayna Eyelet Cream",
       "status": "Continued",
       "space": "0.5"
     },
     {
+      "order": 97,
+      "range": "Alora Chenille Eyelet Natural",
+      "status": "Continued",
+      "space": "0.5"
+    },
+    {
       "order": 98,
-      "range": "Genoa Eyelet Sandstone",
+      "range": "Two Tone Chenille Cream Eyelet",
       "status": "Continued",
       "space": "0.5"
     },
     {
       "order": 99,
-      "range": "Sydney Ecru Eyelet",
+      "range": "Sorrell Boucle Eyelet Ivory",
       "status": "Continued",
-      "space": "0.5"
+      "space": "0.33"
     },
     {
       "order": 100,
-      "range": "Sorrell Boucle Eyelet Ivory",
+      "range": "Sydney Ecru Eyelet",
       "status": "Continued",
-      "space": "0.5"
+      "space": "0.33"
     },
     {
       "order": 101,
-      "range": "Two Tone Chenille Cream Eyelet",
+      "range": "Genoa Eyelet Sandstone",
       "status": "Continued",
-      "space": "0.5"
+      "space": "0.33"
     },
     {
       "order": 102,
