@@ -1,8 +1,20 @@
 {
-  "version": 1,
+  "version": 2,
   "department": "Bedding",
   "section": "Plain Dye",
   "capacityPerBay": 6,
+  "plainDyeEndPage": 83,
+  "combinedPdfPages": [
+    9,
+    13,
+    15,
+    22,
+    27,
+    51,
+    55,
+    58,
+    68
+  ],
   "flow": [
     1,
     2,
@@ -47,6 +59,286 @@
     {
       "page": 4,
       "spaces": 3
+    },
+    {
+      "page": 5,
+      "spaces": 3
+    },
+    {
+      "page": 6,
+      "spaces": 3
+    },
+    {
+      "page": 7,
+      "spaces": 3
+    },
+    {
+      "page": 8,
+      "spaces": 5
+    },
+    {
+      "page": 10,
+      "spaces": 4
+    },
+    {
+      "page": 11,
+      "spaces": 2
+    },
+    {
+      "page": 12,
+      "spaces": 5
+    },
+    {
+      "page": 14,
+      "spaces": 5
+    },
+    {
+      "page": 16,
+      "spaces": 4
+    },
+    {
+      "page": 17,
+      "spaces": 3
+    },
+    {
+      "page": 18,
+      "spaces": 4
+    },
+    {
+      "page": 19,
+      "spaces": 4
+    },
+    {
+      "page": 20,
+      "spaces": 3
+    },
+    {
+      "page": 21,
+      "spaces": 5
+    },
+    {
+      "page": 23,
+      "spaces": 4
+    },
+    {
+      "page": 24,
+      "spaces": 4
+    },
+    {
+      "page": 25,
+      "spaces": 4
+    },
+    {
+      "page": 26,
+      "spaces": 5
+    },
+    {
+      "page": 28,
+      "spaces": 3
+    },
+    {
+      "page": 29,
+      "spaces": 3
+    },
+    {
+      "page": 30,
+      "spaces": 3
+    },
+    {
+      "page": 31,
+      "spaces": 2
+    },
+    {
+      "page": 32,
+      "spaces": 4
+    },
+    {
+      "page": 33,
+      "spaces": 3
+    },
+    {
+      "page": 34,
+      "spaces": 2
+    },
+    {
+      "page": 35,
+      "spaces": 3
+    },
+    {
+      "page": 36,
+      "spaces": 2
+    },
+    {
+      "page": 37,
+      "spaces": 4
+    },
+    {
+      "page": 38,
+      "spaces": 4
+    },
+    {
+      "page": 39,
+      "spaces": 4
+    },
+    {
+      "page": 40,
+      "spaces": 5
+    },
+    {
+      "page": 41,
+      "spaces": 1
+    },
+    {
+      "page": 42,
+      "spaces": 1
+    },
+    {
+      "page": 43,
+      "spaces": 1
+    },
+    {
+      "page": 44,
+      "spaces": 1
+    },
+    {
+      "page": 45,
+      "spaces": 1
+    },
+    {
+      "page": 46,
+      "spaces": 1
+    },
+    {
+      "page": 47,
+      "spaces": 1
+    },
+    {
+      "page": 48,
+      "spaces": 1
+    },
+    {
+      "page": 49,
+      "spaces": 1
+    },
+    {
+      "page": 50,
+      "spaces": 1
+    },
+    {
+      "page": 52,
+      "spaces": 1
+    },
+    {
+      "page": 53,
+      "spaces": 1
+    },
+    {
+      "page": 54,
+      "spaces": 1
+    },
+    {
+      "page": 56,
+      "spaces": 1
+    },
+    {
+      "page": 57,
+      "spaces": 1
+    },
+    {
+      "page": 59,
+      "spaces": 1
+    },
+    {
+      "page": 60,
+      "spaces": 1
+    },
+    {
+      "page": 61,
+      "spaces": 1
+    },
+    {
+      "page": 62,
+      "spaces": 1
+    },
+    {
+      "page": 63,
+      "spaces": 1
+    },
+    {
+      "page": 64,
+      "spaces": 1
+    },
+    {
+      "page": 65,
+      "spaces": 1
+    },
+    {
+      "page": 66,
+      "spaces": 1
+    },
+    {
+      "page": 67,
+      "spaces": 1
+    },
+    {
+      "page": 69,
+      "spaces": 1
+    },
+    {
+      "page": 70,
+      "spaces": 1
+    },
+    {
+      "page": 71,
+      "spaces": 1
+    },
+    {
+      "page": 72,
+      "spaces": 1
+    },
+    {
+      "page": 73,
+      "spaces": 1
+    },
+    {
+      "page": 74,
+      "spaces": 1
+    },
+    {
+      "page": 75,
+      "spaces": 1
+    },
+    {
+      "page": 76,
+      "spaces": 1
+    },
+    {
+      "page": 77,
+      "spaces": 1
+    },
+    {
+      "page": 78,
+      "spaces": 1
+    },
+    {
+      "page": 79,
+      "spaces": 1
+    },
+    {
+      "page": 80,
+      "spaces": 1
+    },
+    {
+      "page": 81,
+      "spaces": 1
+    },
+    {
+      "page": 82,
+      "spaces": 1
+    },
+    {
+      "page": 83,
+      "spaces": 1
     }
   ]
 }
