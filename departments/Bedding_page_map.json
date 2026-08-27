@@ -115,6 +115,8 @@
     22,
     27,
     41,
+    43,
+    45,
     51,
     55,
     58,
@@ -147,16 +149,16 @@
     "24": "Plain Dye",
     "25": "Plain Dye",
     "26": "Plain Dye",
-    "27": "Plain Dye",
-    "28": "Plain Dye",
-    "29": "Plain Dye",
-    "30": "Plain Dye",
-    "31": "Plain Dye",
-    "32": "Plain Dye",
-    "33": "Plain Dye",
-    "34": "Plain Dye",
-    "35": "Plain Dye",
-    "36": "Plain Dye",
+    "27": "Coordinates",
+    "28": "Coordinates",
+    "29": "Coordinates",
+    "30": "Coordinates",
+    "31": "Coordinates",
+    "32": "Coordinates",
+    "33": "Coordinates",
+    "34": "Coordinates",
+    "35": "Coordinates",
+    "36": "Coordinates",
     "37": "Coordinates",
     "38": "Coordinates",
     "39": "Coordinates",
@@ -369,71 +371,63 @@
       },
       {
         "page": 42,
-        "spaces": 1
-      },
-      {
-        "page": 43,
-        "spaces": 1
+        "spaces": 2
       },
       {
         "page": 44,
-        "spaces": 1
-      },
-      {
-        "page": 45,
-        "spaces": 1
+        "spaces": 2
       },
       {
         "page": 46,
-        "spaces": 1
+        "spaces": 5
       },
       {
         "page": 47,
-        "spaces": 1
+        "spaces": 4
       },
       {
         "page": 48,
-        "spaces": 1
+        "spaces": 4
       },
       {
         "page": 49,
-        "spaces": 1
+        "spaces": 4
       },
       {
         "page": 50,
-        "spaces": 1
+        "spaces": 4
       },
       {
         "page": 52,
-        "spaces": 1
+        "spaces": 3
       },
       {
         "page": 53,
-        "spaces": 1
+        "spaces": 3
       },
       {
         "page": 54,
-        "spaces": 1
+        "spaces": 3
       },
       {
         "page": 56,
-        "spaces": 1
+        "spaces": 3
       },
       {
         "page": 57,
-        "spaces": 1
+        "spaces": 4
       },
       {
         "page": 59,
-        "spaces": 1
+        "spaces": 4
       },
       {
         "page": 60,
-        "spaces": 1
+        "spaces": 3
       },
       {
         "page": 61,
-        "spaces": 1
+        "spaces": 4
       },
       {
         "page": 62,
